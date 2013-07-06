@@ -1,4 +1,6 @@
 main/local.properties
-lib/local.properties
 main/gen
+main/bin
+lib/local.properties
 lib/gen
+lib/bin
