@@ -14,6 +14,6 @@ public class MainActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         TextView textView = (TextView) findViewById(R.id.test_msg);
-        textView.setText(Test.text);
+        textView.setText(Test.getText());
     }
 }
